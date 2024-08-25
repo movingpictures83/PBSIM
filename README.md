@@ -1,2 +1,2 @@
-# PBSim
-PBSim (Ono et al, 2013)
+# PBSIM
+PBSIM (Ono et al, 2013)
